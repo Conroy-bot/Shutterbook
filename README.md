@@ -1,14 +1,4 @@
-# ITMDA-Group-Project
+I worked in a part of a group on the Quotes section using SQLite and C.R.U.D functionality
 
-### Team  
-
-Conroy Magerman DV.2023.Q2K2M8    
-Daniel Cilliers DV.2023.K6C8H9  
-Dillon Cilliers EDUV4822514  
-Gregory De Villiers DV.2023.B3G5L7   
-Luke Kruger-Haye EDUV4777435   
-Vayur Sunkur EDUV4816104   
-
-### Introduction  
-
-....  
+Please find the original repository here:
+https://github.com/LukeKruger-Haye/ITMDA-Group-Project
