@@ -10,3 +10,5 @@ https://github.com/LukeKruger-Haye/ITMDA-Group-Project
 4. Start the app with `flutter run`.
 _Preferably use an android emulator for best representation_
 
+https://github.com/user-attachments/assets/8e10493d-1f47-46f3-b4bc-0b57ee0476e3
+
